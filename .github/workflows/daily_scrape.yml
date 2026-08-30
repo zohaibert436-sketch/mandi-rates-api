@@ -1,0 +1,35 @@
+name: Daily Mandi Rates Auto Updater
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run Mandi Scraper
+        run: python scraper.py
+
+      - name: Commit and Push Updated Rates
+        run: |
+          git config --global user.name 'Mandi-Auto-Bot'
+          git config --global user.email 'bot@pakkisanportal.com'
+          git add mandi_rates.json
+          git commit -m "Auto-update daily mandi rates [skip ci]" || exit 0
+          git push

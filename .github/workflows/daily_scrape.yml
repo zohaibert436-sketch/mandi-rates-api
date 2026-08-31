@@ -31,5 +31,6 @@ jobs:
           git config --global user.name 'Mandi-Auto-Bot'
           git config --global user.email 'bot@pakkisanportal.com'
           git add mandi_rates.json
-          git commit -m "Auto-update daily mandi rates [skip ci]" || exit 0
-          git push
+          git commit -m "Auto-update daily mandi rates [skip ci]" || echo "No changes to commit"
+          git pull --rebase origin main
+          git push origin main

@@ -1,29 +1,29 @@
 {
-  "last_updated": "Saturday, 05 September 2026 | 08:53 AM",
+  "last_updated": "Saturday, 05 September 2026 | 12:28 PM",
   "mandi_data": [
     {
       "crop": "🌾 گندم (Wheat)",
       "city": "ملتان",
-      "min": "4,160",
-      "max": "4,330",
-      "trend": "down",
-      "trendText": "▼ مندا"
+      "min": "4,190",
+      "max": "4,360",
+      "trend": "up",
+      "trendText": "▲ تیز"
     },
     {
       "crop": "☁️ کپاس / پھٹی (Cotton)",
       "city": "ملتان",
-      "min": "8,480",
-      "max": "9,280",
+      "min": "8,490",
+      "max": "9,290",
       "trend": "down",
       "trendText": "▼ مندا"
     },
     {
       "crop": "🍚 چاول / دھان (Paddy/Rice)",
       "city": "ملتان",
-      "min": "4,910",
-      "max": "5,610",
-      "trend": "up",
-      "trendText": "▲ تیز"
+      "min": "4,880",
+      "max": "5,580",
+      "trend": "down",
+      "trendText": "▼ مندا"
     },
     {
       "crop": "🌽 مکئی (Maize/Corn)",
@@ -44,8 +44,8 @@
     {
       "crop": "🌾 تل سفید (Sesame Seeds)",
       "city": "ملتان",
-      "min": "9,490",
-      "max": "10,190",
+      "min": "9,480",
+      "max": "10,180",
       "trend": "down",
       "trendText": "▼ مندا"
     },
@@ -60,142 +60,14 @@
     {
       "crop": "🧅 پیاز (Onion)",
       "city": "ملتان",
-      "min": "3,490",
-      "max": "4,190",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🌾 گندم (Wheat)",
-      "city": "فیصل آباد",
-      "min": "4,160",
-      "max": "4,330",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "☁️ کپاس / پھٹی (Cotton)",
-      "city": "فیصل آباد",
-      "min": "8,500",
-      "max": "9,300",
+      "min": "3,500",
+      "max": "4,200",
       "trend": "stable",
       "trendText": "━ برابر"
     },
     {
-      "crop": "🍚 چاول / دھان (Paddy/Rice)",
-      "city": "فیصل آباد",
-      "min": "4,910",
-      "max": "5,610",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🌽 مکئی (Maize/Corn)",
-      "city": "فیصل آباد",
-      "min": "2,140",
-      "max": "2,370",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🌱 سرسوں / رایا (Mustard)",
-      "city": "فیصل آباد",
-      "min": "7,220",
-      "max": "7,870",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🌾 تل سفید (Sesame Seeds)",
-      "city": "فیصل آباد",
-      "min": "9,500",
-      "max": "10,200",
-      "trend": "stable",
-      "trendText": "━ برابر"
-    },
-    {
-      "crop": "🥔 آلو (Potato)",
-      "city": "فیصل آباد",
-      "min": "2,720",
-      "max": "3,320",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🧅 پیاز (Onion)",
-      "city": "فیصل آباد",
-      "min": "3,510",
-      "max": "4,210",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
       "crop": "🌾 گندم (Wheat)",
-      "city": "ساہیوال",
-      "min": "4,160",
-      "max": "4,330",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "☁️ کپاس / پھٹی (Cotton)",
-      "city": "ساہیوال",
-      "min": "8,490",
-      "max": "9,290",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🍚 چاول / دھان (Paddy/Rice)",
-      "city": "ساہیوال",
-      "min": "4,890",
-      "max": "5,590",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🌽 مکئی (Maize/Corn)",
-      "city": "ساہیوال",
-      "min": "2,130",
-      "max": "2,360",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🌱 سرسوں / رایا (Mustard)",
-      "city": "ساہیوال",
-      "min": "7,210",
-      "max": "7,860",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🌾 تل سفید (Sesame Seeds)",
-      "city": "ساہیوال",
-      "min": "9,480",
-      "max": "10,180",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🥔 آلو (Potato)",
-      "city": "ساہیوال",
-      "min": "2,710",
-      "max": "3,310",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🧅 پیاز (Onion)",
-      "city": "ساہیوال",
-      "min": "3,480",
-      "max": "4,180",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🌾 گندم (Wheat)",
-      "city": "رحیم یار خان",
+      "city": "فیصل آباد",
       "min": "4,200",
       "max": "4,370",
       "trend": "up",
@@ -203,7 +75,7 @@
     },
     {
       "crop": "☁️ کپاس / پھٹی (Cotton)",
-      "city": "رحیم یار خان",
+      "city": "فیصل آباد",
       "min": "8,520",
       "max": "9,320",
       "trend": "up",
@@ -211,207 +83,15 @@
     },
     {
       "crop": "🍚 چاول / دھان (Paddy/Rice)",
-      "city": "رحیم یار خان",
-      "min": "4,910",
-      "max": "5,610",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🌽 مکئی (Maize/Corn)",
-      "city": "رحیم یار خان",
-      "min": "2,130",
-      "max": "2,360",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🌱 سرسوں / رایا (Mustard)",
-      "city": "رحیم یار خان",
-      "min": "7,190",
-      "max": "7,840",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🌾 تل سفید (Sesame Seeds)",
-      "city": "رحیم یار خان",
-      "min": "9,510",
-      "max": "10,210",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🥔 آلو (Potato)",
-      "city": "رحیم یار خان",
-      "min": "2,700",
-      "max": "3,300",
+      "city": "فیصل آباد",
+      "min": "4,900",
+      "max": "5,600",
       "trend": "stable",
       "trendText": "━ برابر"
     },
     {
-      "crop": "🧅 پیاز (Onion)",
-      "city": "رحیم یار خان",
-      "min": "3,500",
-      "max": "4,200",
-      "trend": "stable",
-      "trendText": "━ برابر"
-    },
-    {
-      "crop": "🌾 گندم (Wheat)",
-      "city": "بہاولپور",
-      "min": "4,160",
-      "max": "4,330",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "☁️ کپاس / پھٹی (Cotton)",
-      "city": "بہاولپور",
-      "min": "8,510",
-      "max": "9,310",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🍚 چاول / دھان (Paddy/Rice)",
-      "city": "بہاولپور",
-      "min": "4,910",
-      "max": "5,610",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
       "crop": "🌽 مکئی (Maize/Corn)",
-      "city": "بہاولپور",
-      "min": "2,140",
-      "max": "2,370",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🌱 سرسوں / رایا (Mustard)",
-      "city": "بہاولپور",
-      "min": "7,200",
-      "max": "7,850",
-      "trend": "stable",
-      "trendText": "━ برابر"
-    },
-    {
-      "crop": "🌾 تل سفید (Sesame Seeds)",
-      "city": "بہاولپور",
-      "min": "9,480",
-      "max": "10,180",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🥔 آلو (Potato)",
-      "city": "بہاولپور",
-      "min": "2,700",
-      "max": "3,300",
-      "trend": "stable",
-      "trendText": "━ برابر"
-    },
-    {
-      "crop": "🧅 پیاز (Onion)",
-      "city": "بہاولپور",
-      "min": "3,480",
-      "max": "4,180",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🌾 گندم (Wheat)",
-      "city": "سرگودھا",
-      "min": "4,190",
-      "max": "4,360",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "☁️ کپاس / پھٹی (Cotton)",
-      "city": "سرگودھا",
-      "min": "8,510",
-      "max": "9,310",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🍚 چاول / دھان (Paddy/Rice)",
-      "city": "سرگودھا",
-      "min": "4,920",
-      "max": "5,620",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🌽 مکئی (Maize/Corn)",
-      "city": "سرگودھا",
-      "min": "2,130",
-      "max": "2,360",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🌱 سرسوں / رایا (Mustard)",
-      "city": "سرگودھا",
-      "min": "7,180",
-      "max": "7,830",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🌾 تل سفید (Sesame Seeds)",
-      "city": "سرگودھا",
-      "min": "9,520",
-      "max": "10,220",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🥔 آلو (Potato)",
-      "city": "سرگودھا",
-      "min": "2,680",
-      "max": "3,280",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🧅 پیاز (Onion)",
-      "city": "سرگودھا",
-      "min": "3,510",
-      "max": "4,210",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🌾 گندم (Wheat)",
-      "city": "گجرانوالہ",
-      "min": "4,200",
-      "max": "4,370",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "☁️ کپاس / پھٹی (Cotton)",
-      "city": "گجرانوالہ",
-      "min": "8,520",
-      "max": "9,320",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🍚 چاول / دھان (Paddy/Rice)",
-      "city": "گجرانوالہ",
-      "min": "4,890",
-      "max": "5,590",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🌽 مکئی (Maize/Corn)",
-      "city": "گجرانوالہ",
+      "city": "فیصل آباد",
       "min": "2,170",
       "max": "2,400",
       "trend": "up",
@@ -419,135 +99,7 @@
     },
     {
       "crop": "🌱 سرسوں / رایا (Mustard)",
-      "city": "گجرانوالہ",
-      "min": "7,180",
-      "max": "7,830",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🌾 تل سفید (Sesame Seeds)",
-      "city": "گجرانوالہ",
-      "min": "9,520",
-      "max": "10,220",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🥔 آلو (Potato)",
-      "city": "گجرانوالہ",
-      "min": "2,720",
-      "max": "3,320",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🧅 پیاز (Onion)",
-      "city": "گجرانوالہ",
-      "min": "3,500",
-      "max": "4,200",
-      "trend": "stable",
-      "trendText": "━ برابر"
-    },
-    {
-      "crop": "🌾 گندم (Wheat)",
-      "city": "اوکاڑہ",
-      "min": "4,200",
-      "max": "4,370",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "☁️ کپاس / پھٹی (Cotton)",
-      "city": "اوکاڑہ",
-      "min": "8,490",
-      "max": "9,290",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🍚 چاول / دھان (Paddy/Rice)",
-      "city": "اوکاڑہ",
-      "min": "4,890",
-      "max": "5,590",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🌽 مکئی (Maize/Corn)",
-      "city": "اوکاڑہ",
-      "min": "2,170",
-      "max": "2,400",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🌱 سرسوں / رایا (Mustard)",
-      "city": "اوکاڑہ",
-      "min": "7,190",
-      "max": "7,840",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🌾 تل سفید (Sesame Seeds)",
-      "city": "اوکاڑہ",
-      "min": "9,480",
-      "max": "10,180",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🥔 آلو (Potato)",
-      "city": "اوکاڑہ",
-      "min": "2,680",
-      "max": "3,280",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🧅 پیاز (Onion)",
-      "city": "اوکاڑہ",
-      "min": "3,500",
-      "max": "4,200",
-      "trend": "stable",
-      "trendText": "━ برابر"
-    },
-    {
-      "crop": "🌾 گندم (Wheat)",
-      "city": "خانیوال",
-      "min": "4,190",
-      "max": "4,360",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "☁️ کپاس / پھٹی (Cotton)",
-      "city": "خانیوال",
-      "min": "8,490",
-      "max": "9,290",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🍚 چاول / دھان (Paddy/Rice)",
-      "city": "خانیوال",
-      "min": "4,890",
-      "max": "5,590",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🌽 مکئی (Maize/Corn)",
-      "city": "خانیوال",
-      "min": "2,160",
-      "max": "2,390",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🌱 سرسوں / رایا (Mustard)",
-      "city": "خانیوال",
+      "city": "فیصل آباد",
       "min": "7,210",
       "max": "7,860",
       "trend": "up",
@@ -555,7 +107,7 @@
     },
     {
       "crop": "🌾 تل سفید (Sesame Seeds)",
-      "city": "خانیوال",
+      "city": "فیصل آباد",
       "min": "9,490",
       "max": "10,190",
       "trend": "down",
@@ -563,87 +115,23 @@
     },
     {
       "crop": "🥔 آلو (Potato)",
-      "city": "خانیوال",
-      "min": "2,720",
-      "max": "3,320",
-      "trend": "up",
-      "trendText": "▲ تیز"
+      "city": "فیصل آباد",
+      "min": "2,680",
+      "max": "3,280",
+      "trend": "down",
+      "trendText": "▼ مندا"
     },
     {
       "crop": "🧅 پیاز (Onion)",
-      "city": "خانیوال",
-      "min": "3,480",
-      "max": "4,180",
-      "trend": "down",
-      "trendText": "▼ مندا"
+      "city": "فیصل آباد",
+      "min": "3,510",
+      "max": "4,210",
+      "trend": "up",
+      "trendText": "▲ تیز"
     },
     {
       "crop": "🌾 گندم (Wheat)",
-      "city": "وہاڑی",
-      "min": "4,190",
-      "max": "4,360",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "☁️ کپاس / پھٹی (Cotton)",
-      "city": "وہاڑی",
-      "min": "8,520",
-      "max": "9,320",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🍚 چاول / دھان (Paddy/Rice)",
-      "city": "وہاڑی",
-      "min": "4,920",
-      "max": "5,620",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🌽 مکئی (Maize/Corn)",
-      "city": "وہاڑی",
-      "min": "2,170",
-      "max": "2,400",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🌱 سرسوں / رایا (Mustard)",
-      "city": "وہاڑی",
-      "min": "7,190",
-      "max": "7,840",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🌾 تل سفید (Sesame Seeds)",
-      "city": "وہاڑی",
-      "min": "9,480",
-      "max": "10,180",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🥔 آلو (Potato)",
-      "city": "وہاڑی",
-      "min": "2,710",
-      "max": "3,310",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🧅 پیاز (Onion)",
-      "city": "وہاڑی",
-      "min": "3,500",
-      "max": "4,200",
-      "trend": "stable",
-      "trendText": "━ برابر"
-    },
-    {
-      "crop": "🌾 گندم (Wheat)",
-      "city": "جھنگ",
+      "city": "ساہیوال",
       "min": "4,180",
       "max": "4,350",
       "trend": "stable",
@@ -651,87 +139,23 @@
     },
     {
       "crop": "☁️ کپاس / پھٹی (Cotton)",
-      "city": "جھنگ",
-      "min": "8,490",
-      "max": "9,290",
-      "trend": "down",
-      "trendText": "▼ مندا"
+      "city": "ساہیوال",
+      "min": "8,520",
+      "max": "9,320",
+      "trend": "up",
+      "trendText": "▲ تیز"
     },
     {
       "crop": "🍚 چاول / دھان (Paddy/Rice)",
-      "city": "جھنگ",
-      "min": "4,920",
-      "max": "5,620",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🌽 مکئی (Maize/Corn)",
-      "city": "جھنگ",
-      "min": "2,150",
-      "max": "2,380",
-      "trend": "stable",
-      "trendText": "━ برابر"
-    },
-    {
-      "crop": "🌱 سرسوں / رایا (Mustard)",
-      "city": "جھنگ",
-      "min": "7,200",
-      "max": "7,850",
-      "trend": "stable",
-      "trendText": "━ برابر"
-    },
-    {
-      "crop": "🌾 تل سفید (Sesame Seeds)",
-      "city": "جھنگ",
-      "min": "9,480",
-      "max": "10,180",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🥔 آلو (Potato)",
-      "city": "جھنگ",
-      "min": "2,720",
-      "max": "3,320",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🧅 پیاز (Onion)",
-      "city": "جھنگ",
-      "min": "3,490",
-      "max": "4,190",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🌾 گندم (Wheat)",
-      "city": "شیخوپورہ",
-      "min": "4,200",
-      "max": "4,370",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "☁️ کپاس / پھٹی (Cotton)",
-      "city": "شیخوپورہ",
-      "min": "8,480",
-      "max": "9,280",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🍚 چاول / دھان (Paddy/Rice)",
-      "city": "شیخوپورہ",
-      "min": "4,890",
-      "max": "5,590",
+      "city": "ساہیوال",
+      "min": "4,880",
+      "max": "5,580",
       "trend": "down",
       "trendText": "▼ مندا"
     },
     {
       "crop": "🌽 مکئی (Maize/Corn)",
-      "city": "شیخوپورہ",
+      "city": "ساہیوال",
       "min": "2,130",
       "max": "2,360",
       "trend": "down",
@@ -739,39 +163,39 @@
     },
     {
       "crop": "🌱 سرسوں / رایا (Mustard)",
-      "city": "شیخوپورہ",
-      "min": "7,210",
-      "max": "7,860",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🌾 تل سفید (Sesame Seeds)",
-      "city": "شیخوپورہ",
-      "min": "9,510",
-      "max": "10,210",
-      "trend": "up",
-      "trendText": "▲ تیز"
-    },
-    {
-      "crop": "🥔 آلو (Potato)",
-      "city": "شیخوپورہ",
-      "min": "2,700",
-      "max": "3,300",
+      "city": "ساہیوال",
+      "min": "7,200",
+      "max": "7,850",
       "trend": "stable",
       "trendText": "━ برابر"
     },
     {
+      "crop": "🌾 تل سفید (Sesame Seeds)",
+      "city": "ساہیوال",
+      "min": "9,480",
+      "max": "10,180",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🥔 آلو (Potato)",
+      "city": "ساہیوال",
+      "min": "2,720",
+      "max": "3,320",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
       "crop": "🧅 پیاز (Onion)",
-      "city": "شیخوپورہ",
-      "min": "3,480",
-      "max": "4,180",
+      "city": "ساہیوال",
+      "min": "3,490",
+      "max": "4,190",
       "trend": "down",
       "trendText": "▼ مندا"
     },
     {
       "crop": "🌾 گندم (Wheat)",
-      "city": "پاکپتن",
+      "city": "رحیم یار خان",
       "min": "4,170",
       "max": "4,340",
       "trend": "down",
@@ -779,7 +203,135 @@
     },
     {
       "crop": "☁️ کپاس / پھٹی (Cotton)",
-      "city": "پاکپتن",
+      "city": "رحیم یار خان",
+      "min": "8,510",
+      "max": "9,310",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🍚 چاول / دھان (Paddy/Rice)",
+      "city": "رحیم یار خان",
+      "min": "4,910",
+      "max": "5,610",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🌽 مکئی (Maize/Corn)",
+      "city": "رحیم یار خان",
+      "min": "2,140",
+      "max": "2,370",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🌱 سرسوں / رایا (Mustard)",
+      "city": "رحیم یار خان",
+      "min": "7,200",
+      "max": "7,850",
+      "trend": "stable",
+      "trendText": "━ برابر"
+    },
+    {
+      "crop": "🌾 تل سفید (Sesame Seeds)",
+      "city": "رحیم یار خان",
+      "min": "9,520",
+      "max": "10,220",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🥔 آلو (Potato)",
+      "city": "رحیم یار خان",
+      "min": "2,720",
+      "max": "3,320",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🧅 پیاز (Onion)",
+      "city": "رحیم یار خان",
+      "min": "3,480",
+      "max": "4,180",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🌾 گندم (Wheat)",
+      "city": "بہاولپور",
+      "min": "4,160",
+      "max": "4,330",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "☁️ کپاس / پھٹی (Cotton)",
+      "city": "بہاولپور",
+      "min": "8,500",
+      "max": "9,300",
+      "trend": "stable",
+      "trendText": "━ برابر"
+    },
+    {
+      "crop": "🍚 چاول / دھان (Paddy/Rice)",
+      "city": "بہاولپور",
+      "min": "4,890",
+      "max": "5,590",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🌽 مکئی (Maize/Corn)",
+      "city": "بہاولپور",
+      "min": "2,170",
+      "max": "2,400",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🌱 سرسوں / رایا (Mustard)",
+      "city": "بہاولپور",
+      "min": "7,210",
+      "max": "7,860",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🌾 تل سفید (Sesame Seeds)",
+      "city": "بہاولپور",
+      "min": "9,490",
+      "max": "10,190",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🥔 آلو (Potato)",
+      "city": "بہاولپور",
+      "min": "2,720",
+      "max": "3,320",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🧅 پیاز (Onion)",
+      "city": "بہاولپور",
+      "min": "3,500",
+      "max": "4,200",
+      "trend": "stable",
+      "trendText": "━ برابر"
+    },
+    {
+      "crop": "🌾 گندم (Wheat)",
+      "city": "سرگودھا",
+      "min": "4,200",
+      "max": "4,370",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "☁️ کپاس / پھٹی (Cotton)",
+      "city": "سرگودھا",
       "min": "8,520",
       "max": "9,320",
       "trend": "up",
@@ -787,15 +339,143 @@
     },
     {
       "crop": "🍚 چاول / دھان (Paddy/Rice)",
-      "city": "پاکپتن",
-      "min": "4,920",
-      "max": "5,620",
+      "city": "سرگودھا",
+      "min": "4,890",
+      "max": "5,590",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🌽 مکئی (Maize/Corn)",
+      "city": "سرگودھا",
+      "min": "2,140",
+      "max": "2,370",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🌱 سرسوں / رایا (Mustard)",
+      "city": "سرگودھا",
+      "min": "7,180",
+      "max": "7,830",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🌾 تل سفید (Sesame Seeds)",
+      "city": "سرگودھا",
+      "min": "9,520",
+      "max": "10,220",
       "trend": "up",
       "trendText": "▲ تیز"
     },
     {
+      "crop": "🥔 آلو (Potato)",
+      "city": "سرگودھا",
+      "min": "2,710",
+      "max": "3,310",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🧅 پیاز (Onion)",
+      "city": "سرگودھا",
+      "min": "3,500",
+      "max": "4,200",
+      "trend": "stable",
+      "trendText": "━ برابر"
+    },
+    {
+      "crop": "🌾 گندم (Wheat)",
+      "city": "گجرانوالہ",
+      "min": "4,200",
+      "max": "4,370",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "☁️ کپاس / پھٹی (Cotton)",
+      "city": "گجرانوالہ",
+      "min": "8,480",
+      "max": "9,280",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🍚 چاول / دھان (Paddy/Rice)",
+      "city": "گجرانوالہ",
+      "min": "4,900",
+      "max": "5,600",
+      "trend": "stable",
+      "trendText": "━ برابر"
+    },
+    {
       "crop": "🌽 مکئی (Maize/Corn)",
-      "city": "پاکپتن",
+      "city": "گجرانوالہ",
+      "min": "2,160",
+      "max": "2,390",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🌱 سرسوں / رایا (Mustard)",
+      "city": "گجرانوالہ",
+      "min": "7,180",
+      "max": "7,830",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🌾 تل سفید (Sesame Seeds)",
+      "city": "گجرانوالہ",
+      "min": "9,480",
+      "max": "10,180",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🥔 آلو (Potato)",
+      "city": "گجرانوالہ",
+      "min": "2,720",
+      "max": "3,320",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🧅 پیاز (Onion)",
+      "city": "گجرانوالہ",
+      "min": "3,520",
+      "max": "4,220",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🌾 گندم (Wheat)",
+      "city": "اوکاڑہ",
+      "min": "4,160",
+      "max": "4,330",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "☁️ کپاس / پھٹی (Cotton)",
+      "city": "اوکاڑہ",
+      "min": "8,480",
+      "max": "9,280",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🍚 چاول / دھان (Paddy/Rice)",
+      "city": "اوکاڑہ",
+      "min": "4,900",
+      "max": "5,600",
+      "trend": "stable",
+      "trendText": "━ برابر"
+    },
+    {
+      "crop": "🌽 مکئی (Maize/Corn)",
+      "city": "اوکاڑہ",
       "min": "2,130",
       "max": "2,360",
       "trend": "down",
@@ -803,7 +483,199 @@
     },
     {
       "crop": "🌱 سرسوں / رایا (Mustard)",
-      "city": "پاکپتن",
+      "city": "اوکاڑہ",
+      "min": "7,180",
+      "max": "7,830",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🌾 تل سفید (Sesame Seeds)",
+      "city": "اوکاڑہ",
+      "min": "9,510",
+      "max": "10,210",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🥔 آلو (Potato)",
+      "city": "اوکاڑہ",
+      "min": "2,700",
+      "max": "3,300",
+      "trend": "stable",
+      "trendText": "━ برابر"
+    },
+    {
+      "crop": "🧅 پیاز (Onion)",
+      "city": "اوکاڑہ",
+      "min": "3,520",
+      "max": "4,220",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🌾 گندم (Wheat)",
+      "city": "خانیوال",
+      "min": "4,160",
+      "max": "4,330",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "☁️ کپاس / پھٹی (Cotton)",
+      "city": "خانیوال",
+      "min": "8,480",
+      "max": "9,280",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🍚 چاول / دھان (Paddy/Rice)",
+      "city": "خانیوال",
+      "min": "4,880",
+      "max": "5,580",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🌽 مکئی (Maize/Corn)",
+      "city": "خانیوال",
+      "min": "2,140",
+      "max": "2,370",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🌱 سرسوں / رایا (Mustard)",
+      "city": "خانیوال",
+      "min": "7,190",
+      "max": "7,840",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🌾 تل سفید (Sesame Seeds)",
+      "city": "خانیوال",
+      "min": "9,480",
+      "max": "10,180",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🥔 آلو (Potato)",
+      "city": "خانیوال",
+      "min": "2,720",
+      "max": "3,320",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🧅 پیاز (Onion)",
+      "city": "خانیوال",
+      "min": "3,500",
+      "max": "4,200",
+      "trend": "stable",
+      "trendText": "━ برابر"
+    },
+    {
+      "crop": "🌾 گندم (Wheat)",
+      "city": "وہاڑی",
+      "min": "4,180",
+      "max": "4,350",
+      "trend": "stable",
+      "trendText": "━ برابر"
+    },
+    {
+      "crop": "☁️ کپاس / پھٹی (Cotton)",
+      "city": "وہاڑی",
+      "min": "8,490",
+      "max": "9,290",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🍚 چاول / دھان (Paddy/Rice)",
+      "city": "وہاڑی",
+      "min": "4,910",
+      "max": "5,610",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🌽 مکئی (Maize/Corn)",
+      "city": "وہاڑی",
+      "min": "2,130",
+      "max": "2,360",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🌱 سرسوں / رایا (Mustard)",
+      "city": "وہاڑی",
+      "min": "7,210",
+      "max": "7,860",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🌾 تل سفید (Sesame Seeds)",
+      "city": "وہاڑی",
+      "min": "9,480",
+      "max": "10,180",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🥔 آلو (Potato)",
+      "city": "وہاڑی",
+      "min": "2,700",
+      "max": "3,300",
+      "trend": "stable",
+      "trendText": "━ برابر"
+    },
+    {
+      "crop": "🧅 پیاز (Onion)",
+      "city": "وہاڑی",
+      "min": "3,490",
+      "max": "4,190",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🌾 گندم (Wheat)",
+      "city": "جھنگ",
+      "min": "4,190",
+      "max": "4,360",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "☁️ کپاس / پھٹی (Cotton)",
+      "city": "جھنگ",
+      "min": "8,490",
+      "max": "9,290",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🍚 چاول / دھان (Paddy/Rice)",
+      "city": "جھنگ",
+      "min": "4,920",
+      "max": "5,620",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🌽 مکئی (Maize/Corn)",
+      "city": "جھنگ",
+      "min": "2,170",
+      "max": "2,400",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🌱 سرسوں / رایا (Mustard)",
+      "city": "جھنگ",
       "min": "7,220",
       "max": "7,870",
       "trend": "up",
@@ -811,11 +683,139 @@
     },
     {
       "crop": "🌾 تل سفید (Sesame Seeds)",
-      "city": "پاکپتن",
-      "min": "9,490",
-      "max": "10,190",
+      "city": "جھنگ",
+      "min": "9,480",
+      "max": "10,180",
       "trend": "down",
       "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🥔 آلو (Potato)",
+      "city": "جھنگ",
+      "min": "2,700",
+      "max": "3,300",
+      "trend": "stable",
+      "trendText": "━ برابر"
+    },
+    {
+      "crop": "🧅 پیاز (Onion)",
+      "city": "جھنگ",
+      "min": "3,510",
+      "max": "4,210",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🌾 گندم (Wheat)",
+      "city": "شیخوپورہ",
+      "min": "4,190",
+      "max": "4,360",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "☁️ کپاس / پھٹی (Cotton)",
+      "city": "شیخوپورہ",
+      "min": "8,500",
+      "max": "9,300",
+      "trend": "stable",
+      "trendText": "━ برابر"
+    },
+    {
+      "crop": "🍚 چاول / دھان (Paddy/Rice)",
+      "city": "شیخوپورہ",
+      "min": "4,890",
+      "max": "5,590",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🌽 مکئی (Maize/Corn)",
+      "city": "شیخوپورہ",
+      "min": "2,160",
+      "max": "2,390",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🌱 سرسوں / رایا (Mustard)",
+      "city": "شیخوپورہ",
+      "min": "7,220",
+      "max": "7,870",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🌾 تل سفید (Sesame Seeds)",
+      "city": "شیخوپورہ",
+      "min": "9,480",
+      "max": "10,180",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🥔 آلو (Potato)",
+      "city": "شیخوپورہ",
+      "min": "2,710",
+      "max": "3,310",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🧅 پیاز (Onion)",
+      "city": "شیخوپورہ",
+      "min": "3,510",
+      "max": "4,210",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "🌾 گندم (Wheat)",
+      "city": "پاکپتن",
+      "min": "4,200",
+      "max": "4,370",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
+      "crop": "☁️ کپاس / پھٹی (Cotton)",
+      "city": "پاکپتن",
+      "min": "8,500",
+      "max": "9,300",
+      "trend": "stable",
+      "trendText": "━ برابر"
+    },
+    {
+      "crop": "🍚 چاول / دھان (Paddy/Rice)",
+      "city": "پاکپتن",
+      "min": "4,900",
+      "max": "5,600",
+      "trend": "stable",
+      "trendText": "━ برابر"
+    },
+    {
+      "crop": "🌽 مکئی (Maize/Corn)",
+      "city": "پاکپتن",
+      "min": "2,140",
+      "max": "2,370",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🌱 سرسوں / رایا (Mustard)",
+      "city": "پاکپتن",
+      "min": "7,180",
+      "max": "7,830",
+      "trend": "down",
+      "trendText": "▼ مندا"
+    },
+    {
+      "crop": "🌾 تل سفید (Sesame Seeds)",
+      "city": "پاکپتن",
+      "min": "9,520",
+      "max": "10,220",
+      "trend": "up",
+      "trendText": "▲ تیز"
     },
     {
       "crop": "🥔 آلو (Potato)",
@@ -828,58 +828,58 @@
     {
       "crop": "🧅 پیاز (Onion)",
       "city": "پاکپتن",
-      "min": "3,480",
-      "max": "4,180",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🌾 گندم (Wheat)",
-      "city": "لودھراں",
-      "min": "4,180",
-      "max": "4,350",
+      "min": "3,500",
+      "max": "4,200",
       "trend": "stable",
       "trendText": "━ برابر"
     },
     {
+      "crop": "🌾 گندم (Wheat)",
+      "city": "لودھراں",
+      "min": "4,190",
+      "max": "4,360",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
       "crop": "☁️ کپاس / پھٹی (Cotton)",
       "city": "لودھراں",
-      "min": "8,490",
-      "max": "9,290",
+      "min": "8,480",
+      "max": "9,280",
       "trend": "down",
       "trendText": "▼ مندا"
     },
     {
       "crop": "🍚 چاول / دھان (Paddy/Rice)",
       "city": "لودھراں",
-      "min": "4,900",
-      "max": "5,600",
-      "trend": "stable",
-      "trendText": "━ برابر"
+      "min": "4,890",
+      "max": "5,590",
+      "trend": "down",
+      "trendText": "▼ مندا"
     },
     {
       "crop": "🌽 مکئی (Maize/Corn)",
       "city": "لودھراں",
-      "min": "2,140",
-      "max": "2,370",
-      "trend": "down",
-      "trendText": "▼ مندا"
-    },
-    {
-      "crop": "🌱 سرسوں / رایا (Mustard)",
-      "city": "لودھراں",
-      "min": "7,200",
-      "max": "7,850",
+      "min": "2,150",
+      "max": "2,380",
       "trend": "stable",
       "trendText": "━ برابر"
     },
     {
+      "crop": "🌱 سرسوں / رایا (Mustard)",
+      "city": "لودھراں",
+      "min": "7,220",
+      "max": "7,870",
+      "trend": "up",
+      "trendText": "▲ تیز"
+    },
+    {
       "crop": "🌾 تل سفید (Sesame Seeds)",
       "city": "لودھراں",
-      "min": "9,480",
-      "max": "10,180",
-      "trend": "down",
-      "trendText": "▼ مندا"
+      "min": "9,510",
+      "max": "10,210",
+      "trend": "up",
+      "trendText": "▲ تیز"
     },
     {
       "crop": "🥔 آلو (Potato)",
@@ -900,34 +900,34 @@
     {
       "crop": "🌾 گندم (Wheat)",
       "city": "مظفر گڑھ",
-      "min": "4,180",
-      "max": "4,350",
-      "trend": "stable",
-      "trendText": "━ برابر"
+      "min": "4,190",
+      "max": "4,360",
+      "trend": "up",
+      "trendText": "▲ تیز"
     },
     {
       "crop": "☁️ کپاس / پھٹی (Cotton)",
       "city": "مظفر گڑھ",
-      "min": "8,510",
-      "max": "9,310",
+      "min": "8,520",
+      "max": "9,320",
       "trend": "up",
       "trendText": "▲ تیز"
     },
     {
       "crop": "🍚 چاول / دھان (Paddy/Rice)",
       "city": "مظفر گڑھ",
-      "min": "4,920",
-      "max": "5,620",
-      "trend": "up",
-      "trendText": "▲ تیز"
+      "min": "4,880",
+      "max": "5,580",
+      "trend": "down",
+      "trendText": "▼ مندا"
     },
     {
       "crop": "🌽 مکئی (Maize/Corn)",
       "city": "مظفر گڑھ",
-      "min": "2,170",
-      "max": "2,400",
-      "trend": "up",
-      "trendText": "▲ تیز"
+      "min": "2,140",
+      "max": "2,370",
+      "trend": "down",
+      "trendText": "▼ مندا"
     },
     {
       "crop": "🌱 سرسوں / رایا (Mustard)",
@@ -940,18 +940,18 @@
     {
       "crop": "🌾 تل سفید (Sesame Seeds)",
       "city": "مظفر گڑھ",
-      "min": "9,500",
-      "max": "10,200",
-      "trend": "stable",
-      "trendText": "━ برابر"
+      "min": "9,480",
+      "max": "10,180",
+      "trend": "down",
+      "trendText": "▼ مندا"
     },
     {
       "crop": "🥔 آلو (Potato)",
       "city": "مظفر گڑھ",
-      "min": "2,710",
-      "max": "3,310",
-      "trend": "up",
-      "trendText": "▲ تیز"
+      "min": "2,680",
+      "max": "3,280",
+      "trend": "down",
+      "trendText": "▼ مندا"
     },
     {
       "crop": "🧅 پیاز (Onion)",
@@ -964,8 +964,8 @@
     {
       "crop": "🌾 گندم (Wheat)",
       "city": "چشتیاں",
-      "min": "4,200",
-      "max": "4,370",
+      "min": "4,190",
+      "max": "4,360",
       "trend": "up",
       "trendText": "▲ تیز"
     },
@@ -980,50 +980,50 @@
     {
       "crop": "🍚 چاول / دھان (Paddy/Rice)",
       "city": "چشتیاں",
-      "min": "4,900",
-      "max": "5,600",
-      "trend": "stable",
-      "trendText": "━ برابر"
+      "min": "4,910",
+      "max": "5,610",
+      "trend": "up",
+      "trendText": "▲ تیز"
     },
     {
       "crop": "🌽 مکئی (Maize/Corn)",
       "city": "چشتیاں",
-      "min": "2,140",
-      "max": "2,370",
+      "min": "2,130",
+      "max": "2,360",
       "trend": "down",
       "trendText": "▼ مندا"
     },
     {
       "crop": "🌱 سرسوں / رایا (Mustard)",
       "city": "چشتیاں",
-      "min": "7,210",
-      "max": "7,860",
+      "min": "7,220",
+      "max": "7,870",
       "trend": "up",
       "trendText": "▲ تیز"
     },
     {
       "crop": "🌾 تل سفید (Sesame Seeds)",
       "city": "چشتیاں",
-      "min": "9,500",
-      "max": "10,200",
-      "trend": "stable",
-      "trendText": "━ برابر"
+      "min": "9,510",
+      "max": "10,210",
+      "trend": "up",
+      "trendText": "▲ تیز"
     },
     {
       "crop": "🥔 آلو (Potato)",
       "city": "چشتیاں",
-      "min": "2,700",
-      "max": "3,300",
-      "trend": "stable",
-      "trendText": "━ برابر"
+      "min": "2,680",
+      "max": "3,280",
+      "trend": "down",
+      "trendText": "▼ مندا"
     },
     {
       "crop": "🧅 پیاز (Onion)",
       "city": "چشتیاں",
-      "min": "3,490",
-      "max": "4,190",
-      "trend": "down",
-      "trendText": "▼ مندا"
+      "min": "3,510",
+      "max": "4,210",
+      "trend": "up",
+      "trendText": "▲ تیز"
     },
     {
       "crop": "🌾 گندم (Wheat)",
@@ -1036,18 +1036,18 @@
     {
       "crop": "☁️ کپاس / پھٹی (Cotton)",
       "city": "لیہ",
-      "min": "8,500",
-      "max": "9,300",
-      "trend": "stable",
-      "trendText": "━ برابر"
+      "min": "8,480",
+      "max": "9,280",
+      "trend": "down",
+      "trendText": "▼ مندا"
     },
     {
       "crop": "🍚 چاول / دھان (Paddy/Rice)",
       "city": "لیہ",
-      "min": "4,900",
-      "max": "5,600",
-      "trend": "stable",
-      "trendText": "━ برابر"
+      "min": "4,910",
+      "max": "5,610",
+      "trend": "up",
+      "trendText": "▲ تیز"
     },
     {
       "crop": "🌽 مکئی (Maize/Corn)",
@@ -1060,10 +1060,10 @@
     {
       "crop": "🌱 سرسوں / رایا (Mustard)",
       "city": "لیہ",
-      "min": "7,200",
-      "max": "7,850",
-      "trend": "stable",
-      "trendText": "━ برابر"
+      "min": "7,210",
+      "max": "7,860",
+      "trend": "up",
+      "trendText": "▲ تیز"
     },
     {
       "crop": "🌾 تل سفید (Sesame Seeds)",
@@ -1076,42 +1076,42 @@
     {
       "crop": "🥔 آلو (Potato)",
       "city": "لیہ",
-      "min": "2,690",
-      "max": "3,290",
-      "trend": "down",
-      "trendText": "▼ مندا"
+      "min": "2,720",
+      "max": "3,320",
+      "trend": "up",
+      "trendText": "▲ تیز"
     },
     {
       "crop": "🧅 پیاز (Onion)",
       "city": "لیہ",
-      "min": "3,520",
-      "max": "4,220",
-      "trend": "up",
-      "trendText": "▲ تیز"
+      "min": "3,490",
+      "max": "4,190",
+      "trend": "down",
+      "trendText": "▼ مندا"
     },
     {
       "crop": "🌾 گندم (Wheat)",
       "city": "ڈیرہ غازی خان",
-      "min": "4,160",
-      "max": "4,330",
-      "trend": "down",
-      "trendText": "▼ مندا"
+      "min": "4,190",
+      "max": "4,360",
+      "trend": "up",
+      "trendText": "▲ تیز"
     },
     {
       "crop": "☁️ کپاس / پھٹی (Cotton)",
       "city": "ڈیرہ غازی خان",
-      "min": "8,490",
-      "max": "9,290",
-      "trend": "down",
-      "trendText": "▼ مندا"
+      "min": "8,500",
+      "max": "9,300",
+      "trend": "stable",
+      "trendText": "━ برابر"
     },
     {
       "crop": "🍚 چاول / دھان (Paddy/Rice)",
       "city": "ڈیرہ غازی خان",
-      "min": "4,910",
-      "max": "5,610",
-      "trend": "up",
-      "trendText": "▲ تیز"
+      "min": "4,890",
+      "max": "5,590",
+      "trend": "down",
+      "trendText": "▼ مندا"
     },
     {
       "crop": "🌽 مکئی (Maize/Corn)",
@@ -1124,26 +1124,26 @@
     {
       "crop": "🌱 سرسوں / رایا (Mustard)",
       "city": "ڈیرہ غازی خان",
-      "min": "7,180",
-      "max": "7,830",
-      "trend": "down",
-      "trendText": "▼ مندا"
+      "min": "7,220",
+      "max": "7,870",
+      "trend": "up",
+      "trendText": "▲ تیز"
     },
     {
       "crop": "🌾 تل سفید (Sesame Seeds)",
       "city": "ڈیرہ غازی خان",
-      "min": "9,510",
-      "max": "10,210",
+      "min": "9,520",
+      "max": "10,220",
       "trend": "up",
       "trendText": "▲ تیز"
     },
     {
       "crop": "🥔 آلو (Potato)",
       "city": "ڈیرہ غازی خان",
-      "min": "2,680",
-      "max": "3,280",
-      "trend": "down",
-      "trendText": "▼ مندا"
+      "min": "2,710",
+      "max": "3,310",
+      "trend": "up",
+      "trendText": "▲ تیز"
     },
     {
       "crop": "🧅 پیاز (Onion)",
